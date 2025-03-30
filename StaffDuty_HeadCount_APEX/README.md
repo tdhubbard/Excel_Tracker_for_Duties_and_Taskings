@@ -10,19 +10,19 @@ These trackers track how many people are available across the 4 subordinate comp
 
 There is a set day each month that the Companies have to update their numbers. Once they do, I develop the standardized duty roster, identify and assign each Company a duty slot, and then send it out to all Companies via a Tasking Order. They in turn will access the duty roster throught the links provided in the tasking order. Once all names have been entered, I will create a finalized and consolidated duty roster.
 
-# SHEET 1
+## SHEET 1
 This tracker is for Staff Duty and Roving Guard duties
 
-# SHEET 2
+## SHEET 2
 
 This tracker is for the Dining Facility Head Count and Kiosk duties
 
-# SHEET 3
+## SHEET 3
 
 This tracker is for APEX events. That tracker identifies how many personnel each Company has to provided to attended identified APEX iterations. There is no set definition of APEX, but "APEX" is associated with the Army's Holistic Health and Fitness (H2F) system to enhance Soldier readiness across physical, mental, nutritional, spiritual, and sleep domains.
 
 
-# EXAMPLE
+## EXAMPLE
 If our unit is assigned 4 Staff Duty Officer Duty days for the following month, I will update the duty day assignments in the box under the yellow bannner "Staff Duty". The formula will identify how many Officers each Company needs to provide for the following month.
 
 
